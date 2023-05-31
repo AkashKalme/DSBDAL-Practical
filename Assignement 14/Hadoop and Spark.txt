@@ -1,0 +1,65 @@
+>1.Spark
+1.terminal
+2.gedit sample.txt
+write up content(hi hi sushil sushil hello)
+
+
+spark-shell
+
+var first=sc.textFile("inputfile_path/sample.txt")
+
+var second=first.flatMap(_.split(" "))
+
+var third=second.map((_,1))
+
+var fourth=third.reduceByKey(_+_)
+
+fourth.foreach(println)
+
+
+spark arch,what is spark,why to use spark?
+
+
+
+
+
+
+
+
+
+
+Hadoop
+
+1.terminal
+2.gedit sample.txt
+write up content(hi hi sushil sushil hello)
+
+jps(javaruntime env process status)
+stop-all.sh to stop
+
+1.start-dfs.sh
+
+2.start-yarn.sh
+
+3.hadoop fs -mkdir /sushil (fs/hdfs=file system)
+
+4.hadoop fs -put /input_file_path/sample.txt /sushil
+
+[Home->Hadoop->share->hadoop->mapreduce]
+
+5.yarn jar map-reduce-example_path/withfilename wordcount /sushil/sample.txt /outputfilename
+
+6.hadoop fs -cat /outputfilename/part-r-00000
+
+
+
+
+
+
+
+
+
+
+
+
+

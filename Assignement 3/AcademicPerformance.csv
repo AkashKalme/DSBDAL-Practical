@@ -1,0 +1,251 @@
+Roll No.,Name,Gender,Address,Suburb,Fee Status,Height,Weight,Family Income,Math Score,Science Score,English Score
+1,James,M,85 Turner St,Abbotsford,Paid,65.78331,112.9925,226802,72,72,74
+2,John,M,25 Bloomburg St,Abbotsford,Paid,71.51521,136.4873,89814,69,90,88
+3,Robert,M,5 Charles St,Abbotsford,,69.39874,153.0269,336951,90,95,93
+4,Michael,M,40 Federation La,Abbotsford,Paid,68.2166,142.3354,160323,47,57,44
+5,William,M,55a Park St,Abbotsford,Paid,67.78781,144.2971,103497,76,78,75
+6,Mary,F,129 Charles St,Abbotsford,Paid,68.69784,123.3024,198693,71,83,78
+7,David,M,124 Yarra St,Abbotsford,Paid,69.80204,141.4947,227026,88,95,92
+8,Joseph,M,98 Charles St,Abbotsford,Paid,70.01472,136.4623,104626,40,43,39
+9,Richard,M,6/241 Nicholson St,Abbotsford,Paid,67.90265,112.3723,369667,64,,67
+10,Charles,M,10 Valiant St,Abbotsford,Paid,66.78236,120.6672,104996,38,60,50
+11,Thomas,M,411/8 Grosvenor St,Abbotsford,,66.48769,127.4516,184454,58,54,52
+12,Christopher,M,40 Nicholson St,Abbotsford,Paid,67.62333,114.143,212465,1,52,43
+13,Daniel,M,123/56 Nicholson St,Abbotsford,Paid,68.30248,125.6107,82091,65,81,73
+14,Matthew,M,45 William St,Abbotsford,Paid,67.11656,122.4618,299831,,72,70
+15,Elizabeth,F,7/20 Abbotsford St,Abbotsford,Paid,68.27967,116.0866,279724,50,53,58
+16,Patricia,F,16 William St,Abbotsford,Paid,71.0916,139.9975,346189,69,75,78
+17,Jennifer,F,42 Henry St,Abbotsford,Paid,66.461,129.5023,444554,88,89,86
+18,Anthony,M,78 Yarra St,Abbotsford,Paid,68.64927,142.9733,128354,18,32,28
+19,George,M,196 Nicholson St,Abbotsford,Paid,71.23033,137.9025,60548,46,42,
+20,Linda,F,42 Valiant St,Abbotsford,Paid,67.13118,124.0449,85019,54,58,61
+21,Barbara,F,3/72 Charles St,Abbotsford,Paid,67.83379,141.2807,107914,66,69,63
+22,Donald,M,13/11 Nicholson St,Abbotsford,Paid,68.87881,143.5392,238588,65,75,70
+23,Paul,M,138/56 Nicholson St,Abbotsford,Paid,63.48115,97.90191,132015,44,54,53
+24,Mark,M,6/219 Nicholson St,Abbotsford,Paid,68.42187,129.5027,220931,69,73,73
+25,Andrew,M,52a William St,Abbotsford,Paid,67.62804,141.8501,205947,74,71,80
+26,Steven,M,49 Park St,Abbotsford,,67.20864,129.7244,432824,73,74,72
+27,Kenneth,M,5/20 Abbotsford St,Abbotsford,Paid,70.84235,142.4235,236427,69,54,55
+28,Edward,M,48 Abbotsford St,Abbotsford,Paid,67.49434,131.5502,134446,67,69,75
+29,Joshua,M,116/56 Nicholson St,Abbotsford,Paid,66.53401,108.3324,99516,70,70,65
+30,Margaret,F,159 Park St,,Paid,65.44098,113.8922,109282,62,70,75
+31,Brian,M,31 Turner St,Abbotsford,Paid,69.5233,103.3016,106444,69,74,74
+32,Kevin,M,166 Gipps St,Abbotsford,Paid,65.8132,120.7536,186651,63,65,61
+33,Jessica,F,60 Stafford St,Abbotsford,Paid,67.8163,125.7886,188274,56,72,65
+34,Sarah,F,11/205 Gipps St,Abbotsford,Paid,70.59505,136.2225,258120,,42,38
+35,Susan,F,47 Studley St,Abbotsford,Paid,71.80484,140.1015,43311,97,87,82
+36,Timothy,M,45 Yarra St,Abbotsford,Paid,69.20613,128.7487,191846,81,81,79
+37,Dorothy,F,200 Nicholson St,Abbotsford,Paid,66.80368,141.7994,403681,74,81,83
+38,Jason,M,27 Charles St,Abbotsford,Paid,67.65893,121.2319,248446,50,64,59
+39,Ronald,M,154 Halsey Rd,Airport West,Paid,67.80701,131.3478,269430,75,90,88
+40,Helen,F,50 Bedford St,Airport West,Paid,64.04535,106.7115,257509,57,56,57
+41,Ryan,M,50 Bedford St,Airport West,,68.57463,124.3598,136384,55,61,54
+42,Jeffrey,M,23 Hart St,Airport West,Paid,65.18357,124.8591,120277,58,73,68
+43,Karen,F,1/80 Hawker St,Airport West,Paid,69.65814,139.6711,465326,53,58,65
+44,Nancy,F,1/37 Hillside Gr,Airport West,Paid,67.96731,137.3696,103634,59,65,66
+45,Betty,F,2/49 McIntosh St,Airport West,Paid,65.98088,106.4499,138371,50,56,54
+46,Lisa,F,54 Marshall Rd,Airport West,Paid,68.67249,128.7639,242832,65,54,57
+47,Jacob,M,36 Roberts Rd,Airport West,Paid,66.88088,145.6837,290208,55,65,62
+48,Nicholas,M,11 Harrington Rd,Airport West,Paid,67.69868,116.819,186272,66,71,76
+49,Ashley,F,2/252 Parer Rd,Airport West,Paid,69.82117,143.6215,201062,57,74,76
+50,Eric,M,3/19 Hart St,Airport West,Paid,69.08817,134.9325,131916,82,84,82
+51,Frank,M,2/62 Clydesdale Rd,Airport West,Paid,69.91479,147.0219,54440,53,55,48
+52,Gary,M,3 Deidre Ct,Airport West,Paid,67.33182,126.3285,280215,77,,68
+53,Anna,F,13 Etzel St,Airport West,Paid,70.26939,125.4839,214399,53,44,42
+54,Stephen,M,1/43 Cameron St,Airport West,Paid,69.10344,115.7084,54164,88,78,75
+55,Jonathan,M,145a Victory Rd,Airport West,Paid,65.38356,123.4892,219446,71,84,87
+56,Sandra,F,241 Parer Rd,Airport West,,70.18447,147.8926,110677,33,41,43
+57,Emily,F,2/40 Earl St,Airport West,Paid,70.40617,155.8987,145985,82,85,86
+58,Amanda,F,180 Parer Rd,Airport West,Paid,66.54376,128.0742,382078,52,55,49
+59,Kimberly,F,4/54 Hawker St,Airport West,Paid,66.36418,119.3701,170721,58,59,58
+60,Michelle,F,43 Hillside Gr,Airport West,Paid,67.537,133.8148,269705,,17,10
+61,Donna,F,174 Parer Rd,Airport West,Paid,,128.7325,101135,79,74,72
+62,Justin,M,138 Victory Rd,Airport West,Paid,68.99958,137.5453,118429,39,39,34
+63,Laura,F,75 King St,,Paid,68.30355,129.7604,31208,62,61,55
+64,Ruth,F,6 Kittyhawk St,Airport West,Paid,67.01255,128.824,281384,69,80,71
+65,Carol,F,478 Fullarton Rd,Airport West,Paid,70.80592,135.3165,171807,59,58,59
+66,Brandon,M,144 Marshall Rd,Airport West,Paid,68.21951,109.6113,109912,67,64,61
+67,Larry,M,106 Parer Rd,Airport West,Paid,69.05914,142.4684,445382,45,37,37
+68,Scott,M,3/7 South Rd,Airport West,,,132.749,105460,504,72,74
+69,Melissa,F,37 North St,Airport West,Paid,67.21568,103.5275,170338,61,58,56
+70,Stephanie,F,10 Hilbert Rd,Airport West,,67.36763,124.7299,102606,39,64,57
+71,Benjamin,M,110 Halsey Rd,Airport West,Paid,65.27033,129.3137,323887,58,63,73
+72,Raymond,M,2/13 North St,Airport West,Paid,70.84278,134.0175,175622,63,55,63
+73,Samuel,M,105a Victory Rd,Airport West,Paid,69.92442,140.3969,229636,41,51,48
+74,Rebecca,F,117 Marshall Rd,Airport West,Paid,64.28508,102.8351,388946,61,57,
+75,Deborah,F,34 Moorna Dr,Airport West,Paid,68.2452,128.5214,269034,49,49,41
+76,Gregory,M,33 North St,Airport West,Paid,66.35708,120.2991,165361,44,41,38
+77,Sharon,F,49 Roberts Rd,Airport West,Paid,68.36275,138.6036,75012,30,26,22
+78,Kathleen,F,85 Roberts Rd,Airport West,Paid,65.4769,132.9574,174379,80,78,
+79,Amy,F,105 Kerferd Rd,Albert Park,Paid,69.71947,115.6233,312477,61,74,72
+80,Cynthia,F,85 Richardson St,Albert Park,,67.72554,122.524,72055,62,68,68
+81,Alexander,M,112 Beaconsfield Pde,Albert Park,Paid,68.63941,134.6254,67001,,,10
+82,Patrick,M,94 Graham St,Albert Park,Paid,66.78405,121.8986,213734,49,45,45
+83,Jack,M,396 Montague St,Albert Park,Paid,70.05147,155.3767,83141,50,47,54
+84,Henry,M,75 Graham St,Albert Park,Paid,66.27848,128.9418,223881,72,64,63
+85,Angela,F,54 Brooke St,Albert Park,Paid,69.20198,129.1013,113752,42,39,34
+86,Shirley,F,104 Richardson St,Albert Park,Paid,69.13481,139.4733,170482,73,80,82
+87,Emma,F,4a Mills St,Albert Park,Paid,67.36436,140.8901,244689,76,83,88
+88,Catherine,F,1 Moubray St,Albert Park,Paid,70.09297,131.5916,160631,71,71,74
+89,Katherine,F,29 Faussett St,Albert Park,Paid,70.1766,121.1232,228724,58,70,67
+90,Virginia,F,3 Herbert St,Albert Park,Paid,68.22556,131.5127,38434,73,86,82
+91,Nicole,F,24 Kerferd Pl,Albert Park,Paid,68.12932,136.5479,292946,65,72,74
+92,Dennis,M,44 Draper St,,,70.24256,141.4896,77443,27,34,36
+93,Walter,M,2 Dundas Pl,Albert Park,Paid,71.48752,140.6104,176410,71,79,71
+94,Tyler,M,23 Finlay St,Albert Park,Paid,69.20477,112.1413,98984,43,45,50
+95,Peter,M,31 Richardson St,Albert Park,Paid,70.06306,133.457,198751,79,86,92
+96,Brenda,F,4a Gatehouse La,Albert Park,Paid,70.55703,131.8001,479296,78,81,82
+97,Aaron,M,60 Brooke St,Albert Park,Paid,66.28644,120.0285,235218,65,66,62
+98,Jerry,M,70 Barrett St,Albert Park,Paid,63.42577,123.0972,164877,63,,70
+99,Christine,F,65 Graham St,Albert Park,Paid,66.76711,128.1432,272087,58,67,62
+100,Samantha,F,364 Montague St,Albert Park,Paid,68.88741,115.4759,169699,65,67,62
+101,Adam,M,86 Mills St,Albert Park,Paid,64.87434,102.0927,189762,79,,67
+102,Rachel,F,129 Kerferd Rd,Albert Park,,67.09272,130.353,202191,68,74,74
+103,Pamela,F,97 Page St,Albert Park,Paid,68.34761,134.1842,212261,85,91,89
+104,Frances,F,55 Withers St,Albert Park,,65.61073,98.64133,301568,60,44,47
+105,Nathan,M,10/140 Kerferd Rd,Albert Park,Paid,67.75551,114.5599,155233,98,86,90
+106,Douglas,M,55 Merton St,Albert Park,Paid,68.0212,123.4917,75826,,,
+107,Heather,F,49 Page St,Albert Park,Paid,67.66193,123.048,201520,87,100,100
+108,Evelyn,F,13/52 Moubray St,Albert Park,Paid,66.3146,126.4772,154236,66,63,64
+109,Jose,M,115 Page St,Albert Park,Paid,69.43706,128.417,289227,52,76,70
+110,Alice,F,32 Page St,Albert Park,Paid,63.83624,127.1941,217439,70,64,72
+111,Janet,F,34 Richardson St,Albert Park,Paid,67.72277,122.0562,179020,77,89,98
+112,Maria,F,2b Dundas Pl,Albert Park,Paid,70.05098,,149624,62,55,49
+113,Zachary,M,22 Greig St,Albert Park,Paid,70.18602,131.6423,337266,54,53,47
+114,Carolyn,F,27 Barrett St,Albert Park,Paid,65.94588,111.8955,30796,51,58,54
+115,Debra,F,44 Greig St,Albert Park,Paid,70.007,122.039,103541,99,100,100
+116,Harold,M,6 Brooke St,Albert Park,Paid,68.61129,128.5547,206721,84,77,74
+117,Martha,F,227a Danks St,Albert Park,Paid,68.80817,132.6792,96773,75,85,82
+118,Marie,F,17 Reed St,Albert Park,Paid,69.76212,136.0632,200967,78,82,79
+119,Arthur,M,74 Bridport St,,,65.45539,115.9403,180019,51,63,230
+120,Julie,F,9 Durham St,Albert Park,Paid,68.82534,136.9041,179866,55,69,65
+121,Kyle,M,6 Smith St,Alphington,Paid,65.8003,119.8804,,79,92,89
+122,Diane,F,5/6 Yarralea St,Alphington,Paid,67.21474,109.0055,219256,91,89,92
+123,Christina,F,136A Fulham Rd,Alphington,,69.42021,128.2705,248730,88,93,93
+124,Victoria,F,44 Shiers St,Alphington,Paid,68.94396,135.2913,110732,,57,56
+125,Joyce,F,83 Fulham Rd,Alphington,Paid,67.9415,106.8558,181020,83,80,73
+126,Carl,M,3/19 Harker St,Alphington,Paid,65.62506,123.2939,183791,87,95,86
+127,Lauren,F,4/2 Miller St,Alphington,Paid,66.49607,109.5143,42972,72,68,67
+128,Grace,F,2/5 Yarana Rd,Alphington,Paid,67.92809,119.3087,134813,65,77,74
+129,Kelly,F,815 Heidelberg Rd,Alphington,Paid,68.89415,,115438,,,
+130,Albert,M,44 Naroon Rd,Alphington,Paid,70.241,133.9841,239296,51,49,51
+131,Rose,F,3/98 Grange Rd,Alphington,,68.26623,132.5807,428420,89,84,82
+132,Megan,F,10 Bennett St,Alphington,Paid,71.23161,130.6988,247846,53,37,40
+133,Joan,F,38 Bennett St,Alphington,Paid,69.09747,115.5637,334105,87,74,70
+134,Jeremy,M,2c Hamilton St,Alphington,Paid,64.39693,123.7941,100793,75,81,84
+135,Ann,F,5/5 Yarana Rd,Alphington,Paid,71.09585,128.1427,244478,1,79,75
+136,Julia,F,7/7 Chandler Hwy,Alphington,Paid,68.21868,135.9646,142921,58,,48
+137,Kathryn,F,1/14 Fulham Rd,,Paid,65.91721,116.6273,182863,51,54,41
+138,Lawrence,M,22 Lowther St,Alphington,Paid,67.4369,126.8241,171128,70,55,56
+139,Olivia,F,11 Margaret Gr,Alphington,Paid,73.90107,151.3913,145402,,66,67
+140,Judith,F,6 Naroon Rd,Alphington,,69.98149,130.4022,306309,71,61,69
+141,Doris,F,42 Shiers St,Alphington,Paid,69.51862,136.2068,83822,76,72,71
+142,Jean,F,158 Queen St,Altona,Paid,,113.3989,262118,59,,64
+143,Andrea,F,59 Bracken Gr,Altona,Paid,68.00869,125.3287,155972,42,55,54
+144,Gerald,M,1/123 Blyth St,Altona,,68.3384,127.5846,214503,57,43,47
+145,Sean,M,4 Blyth St,Altona,Paid,65.18417,107.1564,159303,88,73,78
+146,Joe,M,20 Linnet St,Altona,Paid,68.26209,116.4588,174995,22,39,33
+147,Keith,M,29 Rose St,Altona,Paid,68.56865,133.8402,26669,88,84,75
+148,Sara,F,1/170 Blyth St,Altona,Paid,64.49675,112.8901,177727,73,68,66
+149,Cheryl,F,5/35 Grieve Pde,Altona,Paid,68.71053,130.7568,124771,68,75,81
+150,Hannah,F,156 Maidstone St,Altona,Paid,68.89148,137.7571,456736,100,100,93
+151,Mildred,F,11 Keeshan Ct,Altona,Paid,69.54011,125.4036,216604,62,67,69
+152,Willie,M,1/136 Queen St,Altona,,67.39964,138.4659,221561,77,2,68
+153,Lillian,F,173 Queen St,Altona,Paid,66.47521,120.8184,114564,59,70,66
+154,Roger,M,1/265 Queen St,Altona,Paid,66.01217,140.1539,315476,54,49,47
+155,Jesse,M,3/26 Grieve Pde,Altona,Paid,72.44434,136.7397,67874,62,67,61
+156,Jacqueline,F,261 Queen St,Altona,Paid,64.12642,106.1139,126110,70,89,88
+157,Ethan,M,4/5 Rose St,Altona,Paid,70.98112,158.9562,102264,66,74,78
+158,Terry,M,1/60 David St,Altona,Paid,67.50124,,,60,,60
+159,Christian,M,1A Merritt Ct,Altona,,72.01515,138.7758,113732,1,86,87
+160,Harry,M,4/31 Millers Rd,Altona,Paid,65.31143,115.9136,93225,66,62,64
+161,Teresa,F,111/112 Pier St,Altona,Paid,67.07509,146.2922,43064,82,,74
+162,Austin,M,24 Wren St,Altona,Paid,64.39148,109.8765,136921,75,88,85
+163,Gloria,F,1/152 Blyth St,Altona,Paid,69.37003,139.0499,388885,,53,52
+164,Ralph,M,4/57 Blyth St,Altona,,68.37921,119.9001,142249,52,53,49
+165,Janice,F,164 Maidstone St,Altona,Paid,65.31018,128.3069,56841,81,92,91
+166,Roy,M,3/25 Rayner St,Altona,Paid,67.1369,127.2428,156493,96,100,170
+167,Theresa,F,3/46 Sargood St,Altona,Paid,68.39468,115.2306,159021,53,51,51
+168,Amber,F,1/57 Blyth St,,Paid,66.2918,124.7975,190910,58,76,78
+169,Danielle,F,22 Fenfield St,Altona,Paid,67.1866,126.9511,41879,68,83,78
+170,Noah,M,5/8 David St,Altona,Paid,65.99156,111.2711,137249,67,75,70
+171,Bryan,M,1/28 Seves St,Altona,Paid,69.43393,122.6089,236157,72,73,74
+172,Jordan,M,27 McIntyre Dr,Altona,Paid,,124.2084,189759,94,88,
+173,Louis,M,4 Boyd St,Altona,Paid,67.76133,124.6453,239877,79,12,81
+174,Brittany,F,12 Spear Ct,Altona,Paid,65.27864,119.5169,21175,63,67,70
+175,Bruce,M,185 Queen St,Altona,Paid,73.83364,139.2983,67229,43,51,54
+176,Madison,F,3/20 Mulga St,Altona,Paid,66.81312,104.8265,236391,81,91,87
+177,Judy,F,51 Millers Rd,Altona,,66.89411,123.0424,325596,46,,58
+178,Billy,M,2/119 Railway St N,Altona,Paid,65.73568,118.8923,83411,71,77,77
+179,Dylan,M,24 McIntyre Dr,Altona,Paid,65.98283,121.4939,154227,52,70,62
+180,Denise,F,104 Maidstone St,Altona,Paid,66.58396,119.2488,248010,97,100,100
+181,Beverly,F,49 Bent St,Altona,Paid,67.11294,135.0239,198613,62,68,75
+182,Eugene,M,5/57 Blyth St,Altona,Paid,65.87481,116.228,321529,46,64,66
+183,Jane,F,15 Kookaburra St,Altona,Paid,66.78067,109.1731,168524,50,50,47
+184,Marilyn,F,219 Civic Pde,Altona,Paid,68.73577,124.2237,203079,,69,70
+185,Abigail,F,3 Curtin Ct,Altona,,66.22666,141.1645,284652,45,52,49
+186,Diana,F,2/60 David St,Altona,Paid,65.95968,129.1501,201368,65,67,65
+187,Charlotte,F,45 Hearn St,Altona North,Paid,68.58372,127.8693,59840,80,76,65
+188,Natalie,F,4 Knapp St,Altona North,Paid,66.59347,120.9244,52753,,66,68
+189,Tiffany,F,21 Hatherley Gr,Altona North,Paid,66.96574,127.6466,513100,48,,45
+190,Wayne,M,3/66 Marion St,Altona North,Paid,68.08015,101.4693,199266,77,88,87
+191,Russell,M,153 Mills St,Altona North,Paid,70.19025,144.9927,196385,66,2,69
+192,Alan,M,33 Carthy St,,Paid,65.52149,110.9523,163205,76,83,79
+193,Crystal,F,16 Harris St,Altona North,Paid,67.45905,132.8625,411047,62,64,66
+194,Sophia,F,1/5 Little St,Altona North,Paid,67.40985,146.3385,48574,77,62,62
+195,Irene,F,1/95 Mills St,Altona North,,69.66158,145.5894,209440,69,84,85
+196,Juan,M,5 Binns St,Altona North,Paid,65.79799,120.8431,56964,61,55,52
+197,Ruby,F,25 Allan St,Altona North,Paid,66.10558,115.7813,299197,59,69,65
+198,Gabriel,M,21 Hatherley Gr,Altona North,Paid,68.23987,128.3019,240628,55,56,51
+199,Philip,M,1/256 Mason St,Altona North,Paid,68.02403,127.4718,355313,45,53,
+200,Annie,F,21 Allan St,Altona North,Paid,71.39044,127.8761,132267,78,79,76
+201,Kayla,F,2/36 May St,Altona North,Paid,65.7316,121.4997,174861,67,84,86
+202,Vincent,M,11 Beevers St,Altona North,Paid,66.43358,112.7148,142443,65,81,77
+203,Lori,F,10 Murphy St,Altona North,Paid,70.01309,135.002,26716,69,77,69
+204,Howard,M,16 Beevers St,Altona North,Paid,69.48146,128.6789,185588,57,69,68
+205,Alexis,F,21 Neal Ct,Altona North,Paid,68.62764,124.4062,175029,59,41,42
+206,Erin,F,31 Duosa Rd,Altona North,,68.36275,140.026,34848,74,71,78
+207,Fred,M,252 Millers Rd,,Paid,68.39028,117.519,411273,82,62,62
+208,Logan,M,1/156 Chambers Rd,Altona North,Paid,68.77413,143.8737,143437,,80,76
+209,Isabella,F,2 Gadsden St,Altona North,Paid,69.9236,141.1703,357145,74,81,76
+210,Tammy,F,24 Hansen St,Altona North,Paid,71.55542,155.9414,236861,58,61,66
+211,Louise,F,4 Prismall St,Altona North,Paid,68.44764,134.0093,53355,80,79,79
+212,Florence,F,122 McIntosh Rd,Altona North,Paid,66.71398,130.0975,29106,35,28,27
+213,Randy,M,35 May St,Altona North,Paid,66.68413,106.2265,213274,1,62,60
+214,Bradley,M,6 Hill St,Altona North,Paid,67.93699,112.0489,22463,60,51,56
+215,Kathy,F,84 May St,Altona North,Paid,68.89855,136.1884,180497,87,91,81
+216,Lois,F,155 Chambers Rd,,Paid,67.29191,,,84,83,75
+217,Anne,F,268d Mason St,Altona North,Paid,69.57212,131.3231,137814,83,86,88
+218,Bonnie,F,5 Cresser St,Altona North,,67.67479,119.5261,447488,34,42,39
+219,Victor,M,107 McIntosh Rd,Altona North,Paid,69.04155,116.9965,220915,66,77,70
+220,Taylor,F,10 Knapp St,Altona North,Paid,67.96765,138.5255,42251,,56,56
+221,Travis,M,4/221 Blackshaws Rd,Altona North,Paid,65.83982,109.6518,162312,56,68,74
+222,Phyllis,F,8/19 Mercer Rd,Armadale,,65.77288,130.1569,77698,87,85,73
+223,Shawn,M,1/42 Adelaide St,Armadale,Paid,,,282951,55,65,62
+224,Phillip,M,14/71 Denbigh Rd,Armadale,Paid,67.83055,113.759,311259,86,80,75
+225,Shannon,F,4/769 High St,Armadale,Paid,65.0693,114.9725,65479,52,66,73
+226,Martin,M,7 Llaneast St,Armadale,Paid,69.70745,127.7149,277256,,56,54
+227,Johnny,M,9/55 Northcote Rd,Armadale,,69.92983,121.9972,312088,72,72,71
+228,Craig,M,28 Cambridge St,Armadale,Paid,66.11569,117.9607,169719,57,50,54
+229,Allison,F,3/16 Fulton St,Armadale,Paid,68.61364,127.7141,270276,68,72,64
+230,Bobby,M,3/20 Mercer Rd,Armadale,Paid,68.9976,117.9619,172744,88,95,94
+231,Alyssa,F,1/77 Wattletree Rd,Armadale,Paid,66.79171,125.1554,96869,76,64,66
+232,Ella,F,12 Willis St,Armadale,Paid,68.02363,141.1026,237943,46,3,42
+233,Josephine,F,8/71 Denbigh Rd,Armadale,Paid,69.67258,145.4822,119751,67,86,83
+234,Ernest,M,11/17 Myamyn St,Armadale,,71.82178,116.065,236861,92,87,78
+235,Stanley,M,526 Orrong Rd,Armadale,Paid,72.74676,135.7458,201092,83,82,84
+236,Cody,M,553 Dandenong Rd,Armadale,Paid,67.27951,132.9248,147215,80,75,77
+237,Clarence,M,9/19 Mercer Rd,Armadale,Paid,67.41015,115.6622,152373,63,66,
+238,Tina,F,6/26 Mercer Rd,Armadale,Paid,68.5315,114.3184,227968,,60,
+239,Elijah,M,538a Orrong Rd,Armadale,Paid,68.47126,148.952,362617,54,52,51
+240,Leonard,M,18/41 Kooyong Rd,,Paid,68.51867,142.1878,103435,84,80,80
+241,Carlos,M,10 William St,Armadale,Paid,63.72529,134.104,281412,73,68,66
+242,Dawn,F,15/405 Dandenong Rd,Armadale,Paid,67.70483,141.8926,105239,80,83,83
+243,Robin,F,1/2 Armadale St,Armadale,Paid,69.47115,138.7444,230165,56,,55
+244,Edna,F,4/20 Mercer Rd,Armadale,,66.70198,134.449,177493,59,51,43
+245,Cameron,M,8/58 Sutherland Rd,Armadale,Paid,65.23126,117.0167,104443,4,74,69
+246,Peggy,F,40 New St,Armadale,Paid,69.89473,115.6752,110342,85,76,71
+247,Caleb,M,35 Northcote Rd,Armadale,Paid,69.83048,134.7905,143385,89,76,74
+248,Eleanor,F,7/53 Wattletree Rd,Armadale,Paid,65.3979,120.5746,107189,,70,68
+249,Isaac,M,791 High St,Armadale,Paid,68.32214,120.0835,212944,65,64,62
+250,Todd,M,25 Llaneast St,Armadale,Paid,65.83982,106.2265,138634,68,60,53
